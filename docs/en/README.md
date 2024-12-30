@@ -17,7 +17,7 @@ config:
           link: /en/notes/core/use/README.md
         -
           theme: brand
-          text: Develop For It
+          text: Development
           link: /en/notes/core/dev/README.md
         -
           theme: alt

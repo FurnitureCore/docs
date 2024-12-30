@@ -17,7 +17,7 @@ config:
           link: /notes/core/use/README.md
         -
           theme: brand
-          text: 二次开发
+          text: 参与开发
           link: /notes/core/dev/README.md
         -
           theme: alt

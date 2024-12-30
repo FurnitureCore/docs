@@ -6,7 +6,7 @@ export const zhNavbar = defineNavbarConfig([
     text: 'FurnitureCore',
     items: [
       { text: '插件使用', link: '/notes/core/use/README.md' },
-      { text: '开发者手册', link: '/notes/core/dev/README.md' },
+      { text: '参与开发', link: '/notes/core/dev/README.md' },
     ]
   },
   { text: 'FurnitureBench', link: '/notes/bench/README.md' },
